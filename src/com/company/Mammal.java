@@ -44,7 +44,7 @@ public abstract class Mammal extends Animal implements AnimalMoveDzumbunu56874,A
         System.out.println("Mammal is eating: " + FoodName);
     }
 
-    public String getOrderShava56415() {
+    public String getOrderDzumbunu56874() {
         return OrderDzumbunu56874;
     }
 
